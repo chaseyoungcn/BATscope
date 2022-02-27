@@ -1,0 +1,10 @@
+paper.ipynb filter=lfs diff=lfs merge=lfs -text
+0_model.txt filter=lfs diff=lfs merge=lfs -text
+100_model.txt filter=lfs diff=lfs merge=lfs -text
+20_model.txt filter=lfs diff=lfs merge=lfs -text
+50_model.txt filter=lfs diff=lfs merge=lfs -text
+80_model.txt filter=lfs diff=lfs merge=lfs -text
+pilot_model.txt filter=lfs diff=lfs merge=lfs -text
+black_data[[:space:]]test.csv filter=lfs diff=lfs merge=lfs -text
+new[[:space:]]black[[:space:]]test.csv filter=lfs diff=lfs merge=lfs -text
+paper_test.csv filter=lfs diff=lfs merge=lfs -text
